@@ -1,0 +1,12 @@
+{
+    "texture": "heal_effect.dat",
+    "geometry": {
+        "rowCount": 7,
+        "colCount": 1,
+        "width": 64,
+        "height": 32
+    },
+    "parts": [
+        {"name": "Effect", "frames": [0,1,2,3,4,5,6]}
+    ]
+}
