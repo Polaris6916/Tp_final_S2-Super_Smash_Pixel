@@ -1,6 +1,36 @@
-# Super Pixel Smash project
+# 🎮 Super Pixel Smash
 
-Super pixel smash is a video game developed in C/C++. The code available in this directory corresponds to the basecode of the end-of-year project at ESIEA in 2025. 
+Super Pixel Smash is a video game developed in C/C++. It is a pixel art fighting game inspired by the mechanics of Super Smash Bros., focusing on fast-paced combat, movement dynamics, and interactive arena battles.
+
+## 🕹️ About the Project
+
+This project was developed by two students as part of the end-of-first-year project at ESIEA in 2025.
+
+The game is built on top of a basecode originally provided by Arnaud BANNIER & Nicolas BODIN.
+
+The repository contains this basecode, which has been extended and modified to implement the final game features.
+
+## ✨ Game Concept
+
+Super Pixel Smash is a 2D pixel art fighting game where players battle in dynamic arenas. The gameplay is inspired by Super Smash Bros., featuring:
+
+- Fast-paced combat
+- Knockback-based mechanics
+- Platform-style arenas
+- Pixel art visual style
+
+## 👥 Contributors
+**Game development:** 
+- Anatole Barboux
+- Riwal CLECH
+  
+**Base code:**
+  - Arnaud BANNIER (professor from ESIEA)
+  - Nicolas BODIN (professor from ESIEA)
+
+## 🎓 Academic Context
+
+This project was created as part of the first-year end-of-studies project at ESIEA (2025).
 
 ## License
 
