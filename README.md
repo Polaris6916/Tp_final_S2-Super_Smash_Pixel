@@ -90,3 +90,4 @@ valgrind --leak-check=full --show-leak-kinds=all ../../_bin/Debug/application
 ## License
 
 All code produced for this project is licensed under the [MIT license](/LICENSE.md).
+
